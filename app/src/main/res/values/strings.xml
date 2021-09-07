@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ProjetoKotlinBootcamp</string>
+    <string name="label_criar_tarefa">Criar Tarefa</string>
+    <string name="label_cancelar">Cancelar</string>
+    <string name="label_hora">Hora</string>
+    <string name="label_data">Data</string>
+    <string name="label_titulo">Título</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="ops_voc_n_o_possui_tarefas">Ops! Você não possui tarefas! Pode Dormir :)</string>
 </resources>
